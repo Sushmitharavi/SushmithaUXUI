@@ -1,0 +1,70 @@
+body {
+  margin-top: 0;
+  margin-left: 0;
+  margin-right: 0;
+  padding: 0;
+
+}
+
+
+nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 8vh;
+  font-family: 'Raleway', sans-serif;
+
+
+}
+.Landingpage{
+  height: 972;
+  background-color: #EEF5F3;
+  font-family: 'Raleway', sans-serif;
+
+
+}
+.intro{
+  font-size: 325%;
+    font-family: 'Raleway', sans-serif;
+  color: #609374;
+    position: absolute;
+    top: 125px;
+    left: 582px;
+
+}
+.Sush-pronounciation{
+  
+  padding: 0;
+  margin: 0 0 0 582px;
+  font-family: 'Raleway', sans-serif;
+  color: #609374;
+  position: absolute;
+    top: 150px;
+    left: 582px;
+
+}
+.landing-para{
+
+    font-family: 'Merriweather', serif;
+    margin-left: 582px;
+    color: black;
+}
+.baloon-pink-1{
+margin: 0;
+padding: 0;
+  width: 300px;
+  height: 421px;
+  position: absolute;
+  left: -61px;
+  top: 0;
+}
+div{
+  margin: 0;
+}
+.baloon-pink-2{
+  width: 230px;
+  height: 254px;
+  position: absolute;
+  top: 125px;
+  left: 1074px;
+}
